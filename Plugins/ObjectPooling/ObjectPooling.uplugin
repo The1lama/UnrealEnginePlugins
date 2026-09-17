@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "ObjectPooling",
+	"Description": "A plugin for creating object pooling objects. So that when creating and destroying objects will be cheaper and faster",
+	"Category": "Other",
+	"CreatedBy": "Lama",
+	"CreatedByURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"DocsURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"MarketplaceURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"SupportURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "ObjectPooling",
+			"Type": "Runtime",
+			"LoadingPhase": "PreLoadingScreen"
+		}
+	]
+}
