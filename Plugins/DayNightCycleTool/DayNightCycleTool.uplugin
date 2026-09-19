@@ -1,0 +1,24 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0",
+	"FriendlyName": "DayNightCycleTool",
+	"Description": "Set the day and night time with interface",
+	"Category": "Light",
+	"CreatedBy": "Lama",
+	"CreatedByURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"DocsURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"MarketplaceURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"SupportURL": "https://github.com/The1lama/UnrealEnginePlugins",
+	"CanContainContent": true,
+	"IsBetaVersion": true,
+	"IsExperimentalVersion": true,
+	"Installed": false,
+	"Modules": [
+		{
+			"Name": "DayNightCycleTool",
+			"Type": "Editor",
+			"LoadingPhase": "Default"
+		}
+	]
+}
